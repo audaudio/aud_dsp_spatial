@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_dsp_spatial` package.
-const String audDspSpatialVersion = '0.1.0';
+const String audDspSpatialVersion = '0.1.1';
